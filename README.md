@@ -1,6 +1,6 @@
 # MitocGroup JavaScript Style Guide() {
 
-*A mostly reasonable approach to JavaScript*
+*A mostly reasonable approach to JavaScript. Thank you, airbnb!*
 
 [For the ES5-only guide click here](es5/).
 
